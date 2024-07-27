@@ -1,8 +1,8 @@
 # Stopwatch
 Made using HTML, CSS and Vanilla JavaScript.
+This project implements a basic stopwatch web application. It uses HTML for the structure, CSS for styling, and JavaScript for the stopwatch functionality. The stopwatch displays minutes, seconds, and tenths of a second. Users can start, stop, and reset the stopwatch.
 
 
-Live Link: https://rajeevkrs.github.io/Stopwatch/
 
 
-![Screenshot (125)](https://github.com/rajeevkrS/Stopwatch/assets/124420037/61b156df-b42d-4e8e-8a42-e951362480ea)
+
